@@ -21,6 +21,10 @@ The database `hospital_data.db` includes a table **appointments** with the follo
 - `appointment_date`
 - `time_slot`
 
+## Screenshots
+
+### Interface Added Successfully
+![Interface Added](interface2.png)
 
 ### Prerequisites
 Ensure you have **Python 3** installed. Install the required dependencies using:
